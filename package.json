@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.ts"
+    "start": "node src/index.ts",
+    "dragon": "ts-node src/dragon.ts"
   },
   "author": "Szalay Balázs",
   "license": "ISC",
